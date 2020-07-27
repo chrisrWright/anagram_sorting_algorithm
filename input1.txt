@@ -1,0 +1,17 @@
+16 5
+undisplayed
+trace
+tea
+singleton
+eta
+eat
+displayed
+crate
+cater
+carte
+caret
+beta
+beat
+bate
+ate
+abet
